@@ -1,5 +1,5 @@
 const name = 'John';
-const age = 31;
+const age = 30;
 const job = 'Web Developer';
 const city = 'Miami';
 let html;
