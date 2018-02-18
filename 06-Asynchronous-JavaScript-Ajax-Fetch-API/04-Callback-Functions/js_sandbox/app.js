@@ -3,7 +3,7 @@ const posts = [
   {title: 'Post Two', body: 'This is post two'}
 ];
 
-// function createPost() {
+// function createPost(post) {
 //   setTimeout(function(){
 //     posts.push(post);
 //   }, 2000);
